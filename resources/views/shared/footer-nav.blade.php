@@ -1,3 +1,3 @@
 <div>
-    Сайт сделан лучшими программистами города
+    extra footer navigation
 </div>
